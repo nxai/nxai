@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning UI framework, DevOps<br>🎯 Goals: Dev</p>
+<p align="left">✨ Creating bugs since 2015 <br>📚 I'm currently learning UI framework, DevOps<br>🎯 Goals: Dev</p>
 
 ###
 
