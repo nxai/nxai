@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋, I'm Somxai Ngakhamphithoun</h1>
 
 ###
 
-<p align="left">My name is Somxai Ngakhamphithoun and I'm a Teacher at Luangprabang Technical-Vocational College , from laos</p>
+<p align="left"> I'm a Teacher at Luangprabang Technical-Vocational College , from laos</p>
 
 ###
 
